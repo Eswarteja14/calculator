@@ -1,8 +1,8 @@
-def Division():
+def Division(a,b):
 
-  a  = int(input("enter any number"))
+#   a  = int(input("enter any number"))
 
-  b = int(input("enter any number"))
+#   b = int(input("enter any number"))
   try:
     c = a/b
   except:
